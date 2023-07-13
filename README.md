@@ -6,10 +6,14 @@
 
   1 Logging In to Your WordPress Dashboard:
     Open your preferred web browser and enter the URL of your WordPress website (e.g.,    www.yourwebsite.com).
-
   2 Append "/wp-admin" to the end of your website's URL (e.g., www.yourwebsite.com/wp-admin).
   3 You should now see the WordPress login screen. Enter your username and password, then click "Log In.
   4 If your login credentials are correct, you'll be redirected to the WordPress dashboard.
+
+# Customization
+  To customize a WordPress theme without starting from the login screen, you can follow these steps:
+  1 Navigate to the theme Pearance, theme after selecting the desired theme click on customize.
+  2 In this page all the changeable sections of the site going to listed, then you can choose every one of them which you want to modify.
 
 # Creating a New Post:	
   1 From the WordPress dashboard, locate the left-hand menu and click on "Posts."
